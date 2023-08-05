@@ -14,8 +14,14 @@ Displays the current year progress in Raycast spotlight including remaining days
 
 Displays the current sprint progress in Raycast spotlight including the current sprint, remaining days within the sprint.
 
-![Alternative Text](/img/sc1.png)
+![Image of Raycast spotlight with the pinned script command showing Sprint detail](/img/sc1.png)
 
 ## Installation 🔧
 
 Follow the latest installation reference from: https://github.com/raycast/script-commands
+
+## Update 🔄
+
+Date: 2023-08-06
+Now also displays current sprint date range!
+![Image of Raycast spotlight with the pinned script command showing Sprint detail - now with current sprint date range](/img/sc2.png)
