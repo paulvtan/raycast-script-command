@@ -6,7 +6,7 @@
 # @raycast.mode inline
 
 # Conditional parameters:
-# @raycast.refreshTime 24h
+# @raycast.refreshTime 12h
 
 # Optional parameters:
 # @raycast.icon 🏃‍♂️
